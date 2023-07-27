@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @koorosh-naderi
 - 👀 I’m interested in anything bituminous
+- 📚 I work on small projects related to pavement materials, bitumen, and asphalt mixtures.
 - 📫 How to reach me ...eh?
 
 <!---
