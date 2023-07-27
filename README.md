@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @koorosh-naderi
 - 👀 I’m interested in anything bituminous
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...eh?
 
 <!---
